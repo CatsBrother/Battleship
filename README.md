@@ -1,6 +1,6 @@
 # Battleship
 mini game
-根据head first javascript写了一个小游戏，将之前学到的东西融合汇总
+根据head first javascript写了一个小游戏，将之前学到的东西融合汇总   
 预览地址 ：https://catsbrother.github.io/Battleship/battleship.html
 ## 游戏描述
 随机生成三个长度为三格的战舰，用户输入猜测的位置坐标，浏览器显示是否正确，在网页上显示战舰或者miss，并记录猜测次数，在上方的文本栏显示文字提示。
